@@ -1,0 +1,2 @@
+Test-Command: for py in $(py3versions -s); do echo "[*] testing on $py:"; $py -c 'import borgstore' ; done
+Depends: @
