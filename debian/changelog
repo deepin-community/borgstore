@@ -1,5 +1,50 @@
-template-repository (1.0-1) unstable; urgency=medium
+borgstore (0.3.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Add autopkgtest
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 30 May 2025 10:45:49 +0200
+
+borgstore (0.3.0-1) unstable; urgency=medium
+
+  * New upstream version 0.3.0
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 26 May 2025 17:05:10 +0200
+
+borgstore (0.2.0-1) unstable; urgency=medium
+
+  * Bump copyright years
+  * Update copyright url
+  * New upstream version 0.2.0
+  * Add boto3 new dependency
+  * Bump std-version to 4.7.2
+  * Sync package description with new release
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 25 Apr 2025 16:48:10 +0200
+
+borgstore (0.1.0-1) unstable; urgency=medium
+
+  * New upstream version 0.1.0
+  * Update package description
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 17 Oct 2024 19:34:04 +0200
+
+borgstore (0.0.5-1) unstable; urgency=medium
+
+  * New upstream version 0.0.5
+  * Drop types-requests dependency, removed upstream
+  * Update description for new release
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 08 Oct 2024 09:13:15 +0200
+
+borgstore (0.0.4-2) unstable; urgency=medium
+
+  * Source-only reupload
+  * Add VCS fields
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 07 Oct 2024 19:50:12 +0200
+
+borgstore (0.0.4-1) unstable; urgency=low
+
+  * Initial release (Closes: #1083032)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 30 Sep 2024 10:28:52 +0000
